@@ -1,0 +1,20 @@
+> sessionInfo()
+R version 3.0.2 (2013-09-25)
+Platform: i386-w64-mingw32/i386 (32-bit)
+
+locale:
+[1] LC_COLLATE=Chinese_People's Republic of China.936 
+[2] LC_CTYPE=Chinese_People's Republic of China.936   
+[3] LC_MONETARY=Chinese_People's Republic of China.936
+[4] LC_NUMERIC=C                                      
+[5] LC_TIME=Chinese_People's Republic of China.936    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] slidify_0.4 knitr_1.5  
+
+loaded via a namespace (and not attached):
+[1] evaluate_0.5.1 formatR_0.10   markdown_0.6.3 stringr_0.6.2 
+[5] tools_3.0.2    whisker_0.3-2  yaml_2.1.7    
